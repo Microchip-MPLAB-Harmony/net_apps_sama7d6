@@ -405,12 +405,6 @@ extern "C" {
 #define NO_WOLFSSL_MEMORY
 // ---------- FUNCTIONAL CONFIGURATION END ----------
 
-#define TCPIP_STACK_NETWORK_INTERAFCE_COUNT  	1
-
-
-
-
-
 /*** GMAC1 Configuration ***/
 #define DRV_GMAC1
 #define DRV_SAMA7D6
@@ -504,6 +498,12 @@ extern "C" {
 #define TCPIP_GMAC1_RX_PRIO_COUNT                1
 #define DRV_GMAC1_NUMBER_OF_QUEUES               6
 #define DRV_GMAC1_RMII_MODE                      0
+
+
+
+#define TCPIP_STACK_NETWORK_INTERAFCE_COUNT  	1
+
+
 
 
 

@@ -16985,7 +16985,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\configuration.h</file>
-         <hash>cf846b4c7339b6f04bec36655a5c1c882c648e78acc6260afb1aea658eb931de</hash>
+         <hash>ffaeee22cb54115bce53be26d9a846ad9c94f832f257dd25f3b01c350a85bcff</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\crypto\crypto.h</file>
@@ -17005,7 +17005,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\definitions.h</file>
-         <hash>a5680a9018737a89265aa3c97405348dab9db64c98f176eb09b4f2979d4b9cba</hash>
+         <hash>52629020b35c1c02266c8b3ba94599ca6ade9d6f06b49a48e094ccf6c2024dea</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\device.h</file>
@@ -17101,7 +17101,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\initialization.c</file>
-         <hash>4e68b32b86665355fa793eccd789372acd6f8248eab18dd016bb502f05f3c2de</hash>
+         <hash>32b92391d60260af2b51093cd6810d02a6ada5b2ab7ff8ee16886a49b19b5a4d</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\interrupts.c</file>

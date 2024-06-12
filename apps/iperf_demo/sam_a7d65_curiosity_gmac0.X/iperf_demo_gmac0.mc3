@@ -16599,7 +16599,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac0\definitions.h</file>
-         <hash>06d0f4283b3818c396bb592abe40e63e72bf51fd3f800a8cee588d0ea4012b3c</hash>
+         <hash>cbc08deeafde99fd71de80566ce20175bc6c7ca7d0b8fd0cfd47439cccfdf3dd</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac0\device.h</file>
@@ -16695,7 +16695,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac0\initialization.c</file>
-         <hash>cc66b2cc5c9f449a929b16c5a705224d32cbc4afd1252f45c2211e9a6a3ca861</hash>
+         <hash>302003afb777bf118e493a154f09a6301cedea0cc5054b2bdd84e678d9df6519</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac0\interrupts.c</file>

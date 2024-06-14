@@ -19,7 +19,7 @@ Following table provides number of network application examples available for di
 
 ### Known Issues
 
-- None
+- The demos using crypto library report one Mandatory MISRA C violation which will be fixed in a next release. 
 
 ### Development Tools
 

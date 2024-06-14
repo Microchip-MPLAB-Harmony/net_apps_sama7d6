@@ -17,7 +17,7 @@ modules:
     - {name: "csp", version: "v3.19.0"}
     - {name: "core", version: "v3.13.4"}
     - {name: "CMSIS_5", version: "5.8.0"}
-    - {name: "net", version: "dev"}
+    - {name: "net", version: "v3.12.0"}
     - {name: "bsp", version: "v3.20.0"}
 
 packs:

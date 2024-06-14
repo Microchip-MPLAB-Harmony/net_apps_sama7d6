@@ -22,6 +22,6 @@ modules:
 - {name: core, type: HARMONY, version: v3.13.4}
 - {name: CMSIS_5, type: HARMONY, version: 5.8.0}
 - {name: wolfssl, type: HARMONY, version: v5.4.0}
-- {name: net, type: HARMONY, version: dev}
+- {name: net, type: HARMONY, version: v3.12.0}
 - {name: bsp, type: HARMONY, version: v3.20.0}
 - {name: crypto, type: HARMONY, version: v3.8.1}

@@ -4,7 +4,7 @@
 
 
 project: iperf_demo
-creation_date: 2024-06-12T14:04:44.394+05:30[Asia/Calcutta]    # ISO 8601 format: https://www.w3.org/TR/NOTE-datetime
+creation_date: 2024-06-14T11:06:58.503+05:30[Asia/Calcutta]    # ISO 8601 format: https://www.w3.org/TR/NOTE-datetime
 operating_system: Windows 10
 mcc_mode: IDE            # [IDE|Standalone|Headless]
 mcc_version: v5.5.1
@@ -14,12 +14,12 @@ harmony_version: v1.5.2
 compiler: XC32 4.40
 
 modules:
-    - {name: "csp", version: "add_ourasi_support"}
-    - {name: "core", version: "dev"}
+    - {name: "csp", version: "v3.19.0"}
+    - {name: "core", version: "v3.13.4"}
     - {name: "CMSIS_5", version: "5.8.0"}
     - {name: "wolfssl", version: "v5.4.0"}
     - {name: "net", version: "dev"}
-    - {name: "bsp", version: "add_bsp_sama7d65_curiosity"}
+    - {name: "bsp", version: "v3.20.0"}
     - {name: "crypto", version: "v3.8.1"}
 
 packs:

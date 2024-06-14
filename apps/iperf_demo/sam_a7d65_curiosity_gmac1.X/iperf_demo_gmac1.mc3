@@ -16985,7 +16985,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\configuration.h</file>
-         <hash>ffaeee22cb54115bce53be26d9a846ad9c94f832f257dd25f3b01c350a85bcff</hash>
+         <hash>cf846b4c7339b6f04bec36655a5c1c882c648e78acc6260afb1aea658eb931de</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\crypto\crypto.h</file>
@@ -17273,7 +17273,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\library\tcpip\src\dhcps_private.h</file>
-         <hash>05813acf368bf4936adb3ff2a8fe1a643e377d4552ec2bbff9259b49159e4a3d</hash>
+         <hash>5e8f0c30c2bc0abfe3ed2fd00fca8fa27f75980098f0dbc434ea793f4737497e</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\library\tcpip\src\dhcpv6_manager.h</file>

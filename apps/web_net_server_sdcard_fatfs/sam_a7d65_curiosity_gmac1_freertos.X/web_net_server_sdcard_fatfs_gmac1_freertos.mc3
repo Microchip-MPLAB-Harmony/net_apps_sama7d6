@@ -203,7 +203,7 @@
       </entry>
    </usedClasses>
    <usedLibraries class="java.util.ArrayList">
-      <ILibraryFile class="com.microchip.mcc.core.library.BaseLibraryFile" libraryClass="com.microchip.mcc.harmony.Harmony3Library" version="1.5.2"/>
+      <ILibraryFile class="com.microchip.mcc.core.library.BaseLibraryFile" libraryClass="com.microchip.mcc.harmony.Harmony3Library" version="1.5.3"/>
    </usedLibraries>
    <tokenMap class="java.util.TreeMap">
       <entry>
@@ -22096,15 +22096,15 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\configuration.h</file>
-         <hash>a81cf64e3d4e5c324f985f3bc31f1fcc6010569749bd8f088a7b62da1505629f</hash>
+         <hash>57ff2a4332d5d6d6b2e8c6925e03cd46e934b4814728a5ae815701c34cc2611d</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\crypto\crypto.h</file>
-         <hash>89d2747602540d5216047edf6aaaa8e4bcf092c4a8b3ee2b700f1a7237514f57</hash>
+         <hash>63bc6589b6538aeb76bc00351d3b99016c8357699c9403067f79a7f43461d208</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\crypto\src\crypto.c</file>
-         <hash>4d62f32e7abe92e85613c095176465c1a0a92e207eb85f050730f8c45039bfa5</hash>
+         <hash>4c1b271685e092105d8271ee0615ac36c95abbea944b3e3c8e5bc194da00c014</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\cstartup.S</file>
@@ -22116,7 +22116,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\definitions.h</file>
-         <hash>95e8a882e31b40c28e3874243871f15b01aee5f7f375e0a40580f66548a22f0f</hash>
+         <hash>a435619f28ff9823d94b906f3f51f73053629eaa6c15bf1e609d42c6ea0bb766</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\device.h</file>
@@ -22148,11 +22148,11 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\driver\ethphy\src\dynamic\drv_extphy_lan8840.c</file>
-         <hash>3b7fd9f9eca6223886c83de690cb56d2388a3e39cab00e9e5caf217681eb56de</hash>
+         <hash>3dc3b9b4ccd221eb9f7cf7940ea201c09a5890166ef2922b8764158689da7e58</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\driver\ethphy\src\dynamic\drv_extphy_lan8840.h</file>
-         <hash>e4f4aab0963f67646f06e881d3bfe16b448207af86959e5f9f51c97ac0daaee6</hash>
+         <hash>32f9110b95d7f3929cb9f108284a5f03caaa9db8c89be76ea6c440ec0670fe59</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\driver\ethphy\src\dynamic\drv_extphy_regs.h</file>
@@ -22172,7 +22172,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\driver\gmac\src\dynamic\drv_gmac.c</file>
-         <hash>472125984ec5d3df9ebceb928288d84ab68aec390834c8cfa4898561565bd04b</hash>
+         <hash>de39e85812083898dc20722bd18a52224887a4c9c065736bf96621d7bceb6bc3</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\driver\gmac\src\dynamic\drv_gmac_lib.h</file>
@@ -22184,7 +22184,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\driver\gmac\src\dynamic\drv_gmac_lib_sama7d6.c</file>
-         <hash>d9a27731d792767adbe51a43f1f72d1ce24ab2683c9135e30290a5c523695192</hash>
+         <hash>6723bf3639a71e2c5ee5a5bea78e1e7c35731dbcb0a826911018b17de4fc9b39</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\driver\miim\drv_miim.h</file>
@@ -22240,7 +22240,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\initialization.c</file>
-         <hash>306a81bbe372027430db0f3e0aac7604899d1a3a2e5de22b241c7ff1390906f8</hash>
+         <hash>064edf2b44be4c0ac2d27daface52592aab6f28e2b66bffc9b3c4a23075456fa</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\interrupts.c</file>
@@ -22628,7 +22628,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\library\tcpip\src\tcp.c</file>
-         <hash>d634f61a2796c02927a61e43312b0d94503b3988d4218d2f993f6ed45fd0e9b1</hash>
+         <hash>5da6c25e7d7f3076b82e1082400aa5fa7a5a18650d243cdb39a2b6817c42e5b2</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\library\tcpip\src\tcp_manager.h</file>
@@ -22648,7 +22648,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\library\tcpip\src\tcpip_commands.c</file>
-         <hash>f10116b6f8e2d8e9076dbc507ec998aa4cedeb205f00125a2d9bec0ec44f67d5</hash>
+         <hash>bd191b1edf0eb4e2b48c781c8563f0036033a7d4a33cc2fc49651b4b3ddfb589</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\library\tcpip\src\tcpip_commands_manager.h</file>
@@ -22704,7 +22704,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\library\tcpip\src\tcpip_packet.c</file>
-         <hash>e0414e6148ed6f2f36c57a2c1e91c7d1a1c668e1a9d0ce45680c28e83ee759e3</hash>
+         <hash>6f9a50bfdd735e8e453a41e4f10040efac9fd505335197c237d369de0fa496a2</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\library\tcpip\src\tcpip_packet.h</file>
@@ -22744,7 +22744,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\library\tcpip\src\udp.c</file>
-         <hash>666b20fc7b4c256205c0a0c5c93947ac3c87424e6479363c74f6c1ef8f85ee2b</hash>
+         <hash>9479edef57387aff0635891b4b1580e79225c4f529b6dfa2045361ccd401c6cd</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\library\tcpip\src\udp_manager.h</file>
@@ -22752,7 +22752,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\library\tcpip\src\udp_private.h</file>
-         <hash>da5614473b469d1f1b2b52c4b529fd13126fccc55684db2ad85a3c34c95997df</hash>
+         <hash>d45d62008b7e4978453c37e124a7205662558d4c0086ac03fab7b41990f3c9fa</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\library\tcpip\src\zero_conf_helper.h</file>
@@ -22832,7 +22832,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\library\tcpip\udp.h</file>
-         <hash>ea405bdcd021f77c5002ff868dc513a76a1f4074cedc29f7df364c9a48b2e89d</hash>
+         <hash>29442924e56cb3a82e5973c04b23adca67a21ff4052876e12dc46e431e17f75d</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\library\tcpip\zero_conf_link_local.h</file>
@@ -22928,7 +22928,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\peripheral\flexcom\usart\plib_flexcom_usart_local.h</file>
-         <hash>d7d8e1bab1992fd5471cbee03dfbe206d761d9e622c721c08f3546ef7d335b64</hash>
+         <hash>44c68d2efb80f2837e7bbcb39073972a6672c61ea2daf8f63e8c7e7da6e1208c</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\peripheral\generic_timer\plib_generic_timer.c</file>
@@ -22940,11 +22940,11 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\peripheral\gic\plib_gic.c</file>
-         <hash>3a820583082b83135562358ef15bafb1fe3219569e5d78efd2e1d240e79781e6</hash>
+         <hash>5e392254c1cff9cc3cf090478945fa741978c0a7ea480da95626559315abdcf7</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\peripheral\gic\plib_gic.h</file>
-         <hash>92e447d1cb7ee981d456921c05de673482ee64824249201bb7543836b59386bb</hash>
+         <hash>e6e611db30d9530c6a4e5ccebb8db8b342a5b9a41dd16cc73c63b1f74b20fdc5</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\peripheral\mmu\plib_mmu.c</file>

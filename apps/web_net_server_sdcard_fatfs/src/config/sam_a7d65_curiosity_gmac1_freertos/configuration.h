@@ -295,6 +295,7 @@ extern "C" {
 #define WOLFSSL_DTLS
 #define NO_PWDBASED
 #define NO_ERROR_STRINGS
+#define WOLFSSL_MAX_ERROR_SZ 38 // Fix Mandatory Misra 21.18 caused by removing error strings with defining NO_ERROR_STRINGS
 #define NO_OLD_TLS
 
 
@@ -618,6 +619,7 @@ extern "C" {
 #define FREERTOS
 #define NO_SIG_WRAPPER
 #define NO_ERROR_STRINGS
+#define WOLFSSL_MAX_ERROR_SZ 38 // Fix Mandatory Misra 21.18 caused by removing error strings with defining NO_ERROR_STRINGS
 #define NO_WOLFSSL_MEMORY
 // ---------- FUNCTIONAL CONFIGURATION END ----------
 
@@ -630,6 +632,12 @@ extern "C" {
 #define NET_PRES_RTOS_TASK_PRIORITY             4
 	
 #define FREERTOS
+
+
+#define TCPIP_STACK_NETWORK_INTERAFCE_COUNT  	1
+
+
+
 
 
 /*** GMAC1 Configuration ***/
@@ -725,12 +733,6 @@ extern "C" {
 #define TCPIP_GMAC1_RX_PRIO_COUNT                1
 #define DRV_GMAC1_NUMBER_OF_QUEUES               6
 #define DRV_GMAC1_RMII_MODE                      0
-
-
-
-#define TCPIP_STACK_NETWORK_INTERAFCE_COUNT  	1
-
-
 
 
 

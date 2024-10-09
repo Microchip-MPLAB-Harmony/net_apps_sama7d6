@@ -131,7 +131,7 @@
       </entry>
    </usedClasses>
    <usedLibraries class="java.util.ArrayList">
-      <ILibraryFile class="com.microchip.mcc.core.library.BaseLibraryFile" libraryClass="com.microchip.mcc.harmony.Harmony3Library" version="1.5.2"/>
+      <ILibraryFile class="com.microchip.mcc.core.library.BaseLibraryFile" libraryClass="com.microchip.mcc.harmony.Harmony3Library" version="1.5.3"/>
    </usedLibraries>
    <tokenMap class="java.util.TreeMap">
       <entry>
@@ -16228,7 +16228,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\configuration.h</file>
-         <hash>b7d08bee6b784cfa95a987316136357187ad4c5bd6a394ddc9bc713d410d1ae9</hash>
+         <hash>dbf7632b5eec176a27787241643a8b07078d2201c5929333a6a3427f22ee377f</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\cstartup.S</file>
@@ -16804,7 +16804,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\library\tcpip\src\udp.c</file>
-         <hash>86f5c342bb780dbb897afc351707a7c0cc96a56559b884fe4b5bb7dde466d431</hash>
+         <hash>9479edef57387aff0635891b4b1580e79225c4f529b6dfa2045361ccd401c6cd</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1_freertos\library\tcpip\src\udp_manager.h</file>

@@ -706,6 +706,7 @@ const TCPIP_MODULE_MAC_PIC32C_CONFIG tcpipGMAC0InitData =
        .ethModuleId            = TCPIP_GMAC0_MODULE_ID,
        .pPhyBase               = &DRV_ETHPHY_OBJECT_BASE_Default,
        .pPhyInit               = &tcpipPhyInitData_LAN8840,
+       .macRefClkSrc           = 0,
        .checksumOffloadRx      = DRV_GMAC0_RX_CHKSM_OFFLOAD,
        .checksumOffloadTx      = DRV_GMAC0_TX_CHKSM_OFFLOAD,
        .macTxPrioNum           = TCPIP_GMAC0_TX_PRIO_COUNT,

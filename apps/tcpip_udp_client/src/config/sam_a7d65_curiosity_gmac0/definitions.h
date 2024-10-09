@@ -48,8 +48,8 @@
 #include <stdint.h>
 #include <stddef.h>
 #include <stdbool.h>
-#include "peripheral/flexcom/usart/plib_flexcom6_usart.h"
 #include "peripheral/tc/plib_tc0.h"
+#include "peripheral/flexcom/usart/plib_flexcom6_usart.h"
 #include "bsp/bsp.h"
 #include "system/time/sys_time.h"
 #include "library/tcpip/tcpip.h"

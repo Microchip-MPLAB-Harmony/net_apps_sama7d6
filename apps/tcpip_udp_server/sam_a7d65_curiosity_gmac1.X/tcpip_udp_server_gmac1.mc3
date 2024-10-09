@@ -127,7 +127,7 @@
       </entry>
    </usedClasses>
    <usedLibraries class="java.util.ArrayList">
-      <ILibraryFile class="com.microchip.mcc.core.library.BaseLibraryFile" libraryClass="com.microchip.mcc.harmony.Harmony3Library" version="1.5.2"/>
+      <ILibraryFile class="com.microchip.mcc.core.library.BaseLibraryFile" libraryClass="com.microchip.mcc.harmony.Harmony3Library" version="1.5.3"/>
    </usedLibraries>
    <tokenMap class="java.util.TreeMap">
       <entry>
@@ -15648,7 +15648,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\definitions.h</file>
-         <hash>12f92e934b1f6733ce7fa967aabb3e2e2241cf31d6b693a61d13fd1f9748e4fd</hash>
+         <hash>2585325bf129177b0736a585102a582269551f0ade86d99678e361ceb8051123</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\device.h</file>
@@ -15680,11 +15680,11 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\driver\ethphy\src\dynamic\drv_extphy_lan8840.c</file>
-         <hash>3b7fd9f9eca6223886c83de690cb56d2388a3e39cab00e9e5caf217681eb56de</hash>
+         <hash>3dc3b9b4ccd221eb9f7cf7940ea201c09a5890166ef2922b8764158689da7e58</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\driver\ethphy\src\dynamic\drv_extphy_lan8840.h</file>
-         <hash>e4f4aab0963f67646f06e881d3bfe16b448207af86959e5f9f51c97ac0daaee6</hash>
+         <hash>32f9110b95d7f3929cb9f108284a5f03caaa9db8c89be76ea6c440ec0670fe59</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\driver\ethphy\src\dynamic\drv_extphy_regs.h</file>
@@ -15704,7 +15704,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\driver\gmac\src\dynamic\drv_gmac.c</file>
-         <hash>472125984ec5d3df9ebceb928288d84ab68aec390834c8cfa4898561565bd04b</hash>
+         <hash>de39e85812083898dc20722bd18a52224887a4c9c065736bf96621d7bceb6bc3</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\driver\gmac\src\dynamic\drv_gmac_lib.h</file>
@@ -15716,7 +15716,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\driver\gmac\src\dynamic\drv_gmac_lib_sama7d6.c</file>
-         <hash>d9a27731d792767adbe51a43f1f72d1ce24ab2683c9135e30290a5c523695192</hash>
+         <hash>6723bf3639a71e2c5ee5a5bea78e1e7c35731dbcb0a826911018b17de4fc9b39</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\driver\miim\drv_miim.h</file>
@@ -15744,7 +15744,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\initialization.c</file>
-         <hash>6646457b89f764a2ef728446d604ea72149208394f09179f3a0d9687a502ae98</hash>
+         <hash>04863f9696debb6ef8be88af1655eb8d37b8559cbfac6bb4a032fdff701ad797</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\interrupts.c</file>
@@ -16112,7 +16112,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\library\tcpip\src\tcpip_commands.c</file>
-         <hash>f10116b6f8e2d8e9076dbc507ec998aa4cedeb205f00125a2d9bec0ec44f67d5</hash>
+         <hash>bd191b1edf0eb4e2b48c781c8563f0036033a7d4a33cc2fc49651b4b3ddfb589</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\library\tcpip\src\tcpip_commands_manager.h</file>
@@ -16168,7 +16168,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\library\tcpip\src\tcpip_packet.c</file>
-         <hash>e0414e6148ed6f2f36c57a2c1e91c7d1a1c668e1a9d0ce45680c28e83ee759e3</hash>
+         <hash>6f9a50bfdd735e8e453a41e4f10040efac9fd505335197c237d369de0fa496a2</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\library\tcpip\src\tcpip_packet.h</file>
@@ -16208,7 +16208,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\library\tcpip\src\udp.c</file>
-         <hash>666b20fc7b4c256205c0a0c5c93947ac3c87424e6479363c74f6c1ef8f85ee2b</hash>
+         <hash>9479edef57387aff0635891b4b1580e79225c4f529b6dfa2045361ccd401c6cd</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\library\tcpip\src\udp_manager.h</file>
@@ -16216,7 +16216,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\library\tcpip\src\udp_private.h</file>
-         <hash>da5614473b469d1f1b2b52c4b529fd13126fccc55684db2ad85a3c34c95997df</hash>
+         <hash>d45d62008b7e4978453c37e124a7205662558d4c0086ac03fab7b41990f3c9fa</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\library\tcpip\src\zero_conf_helper.h</file>
@@ -16296,7 +16296,7 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\library\tcpip\udp.h</file>
-         <hash>ea405bdcd021f77c5002ff868dc513a76a1f4074cedc29f7df364c9a48b2e89d</hash>
+         <hash>29442924e56cb3a82e5973c04b23adca67a21ff4052876e12dc46e431e17f75d</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\library\tcpip\zero_conf_link_local.h</file>
@@ -16356,15 +16356,15 @@
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\peripheral\flexcom\usart\plib_flexcom_usart_local.h</file>
-         <hash>d7d8e1bab1992fd5471cbee03dfbe206d761d9e622c721c08f3546ef7d335b64</hash>
+         <hash>44c68d2efb80f2837e7bbcb39073972a6672c61ea2daf8f63e8c7e7da6e1208c</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\peripheral\gic\plib_gic.c</file>
-         <hash>cb8c18d7401043b99ed8c0e05fe9d9f95c0070d99279f76726ff4b754e6b5167</hash>
+         <hash>665588d2f9ec4e298b094ad749f763af7d52102eebe0f547ef4876cef2a2af4a</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\peripheral\gic\plib_gic.h</file>
-         <hash>92e447d1cb7ee981d456921c05de673482ee64824249201bb7543836b59386bb</hash>
+         <hash>e6e611db30d9530c6a4e5ccebb8db8b342a5b9a41dd16cc73c63b1f74b20fdc5</hash>
       </entry>
       <entry>
          <file>..\src\config\sam_a7d65_curiosity_gmac1\peripheral\mmu\plib_mmu.c</file>

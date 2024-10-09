@@ -402,14 +402,9 @@ extern "C" {
 #define SINGLE_THREADED
 #define NO_SIG_WRAPPER
 #define NO_ERROR_STRINGS
+#define WOLFSSL_MAX_ERROR_SZ 38 // Fix Mandatory Misra 21.18 caused by removing error strings with defining NO_ERROR_STRINGS
 #define NO_WOLFSSL_MEMORY
 // ---------- FUNCTIONAL CONFIGURATION END ----------
-
-#define TCPIP_STACK_NETWORK_INTERAFCE_COUNT  	1
-
-
-
-
 
 /*** GMAC1 Configuration ***/
 #define DRV_GMAC1
@@ -504,6 +499,12 @@ extern "C" {
 #define TCPIP_GMAC1_RX_PRIO_COUNT                1
 #define DRV_GMAC1_NUMBER_OF_QUEUES               6
 #define DRV_GMAC1_RMII_MODE                      0
+
+
+
+#define TCPIP_STACK_NETWORK_INTERAFCE_COUNT  	1
+
+
 
 
 

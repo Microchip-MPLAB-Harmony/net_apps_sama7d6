@@ -4,23 +4,23 @@
 
 
 project: web_net_server_sdcard_fatfs
-creation_date: 2024-06-13T18:33:24.702+05:30[Asia/Calcutta]    # ISO 8601 format: https://www.w3.org/TR/NOTE-datetime
+creation_date: 2024-10-09T19:08:01.564+05:30[Asia/Calcutta]    # ISO 8601 format: https://www.w3.org/TR/NOTE-datetime
 operating_system: Windows 10
 mcc_mode: IDE            # [IDE|Standalone|Headless]
 mcc_version: v5.5.1
 mcc_core_version: v5.7.1
 mplabx_version: v6.20        # if MPLAB X plugin only
-harmony_version: v1.5.2
-compiler: XC32 4.40
+harmony_version: v1.5.3
+compiler: XC32 4.45
 
 modules:
-    - {name: "csp", version: "v3.19.0"}
-    - {name: "core", version: "v3.13.4"}
+    - {name: "csp", version: "v3.19.6"}
+    - {name: "core", version: "v3.13.5"}
     - {name: "CMSIS_5", version: "5.8.0"}
     - {name: "wolfssl", version: "v5.4.0"}
-    - {name: "net", version: "v3.12.0"}
-    - {name: "bsp", version: "v3.20.0"}
-    - {name: "crypto", version: "v3.8.1"}
+    - {name: "net", version: "v3.12.3"}
+    - {name: "bsp", version: "v3.20.1"}
+    - {name: "crypto", version: "v3.8.2"}
     - {name: "CMSIS-FreeRTOS", version: "v10.5.1"}
 
 packs:

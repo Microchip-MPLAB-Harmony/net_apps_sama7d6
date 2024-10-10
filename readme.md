@@ -23,21 +23,16 @@ To clone or download these applications from Github, go to the [main page of thi
 |Folder|Description|
 |:-----|:----------|
 |apps|Contains Net library example applications |
-|docs|Contains documentation in html<br /> format for offline viewing \(to be used only after cloning this<br /> repository onto a local machine\). Use [github pages](https://microchip-mplab-harmony.github.io/net_apps_sama7d6/) of this repository for<br /> viewing it online.|
 
 ## Code Examples
 
-The following applications are provided to demonstrate the typical or interesting usage models of the Net libraries.
+Click [here](https://onlinedocs.microchip.com/v2/keyword-lookup?keyword=NET_APPS_SAMA7D6_H3_TCP_IP_APP_SAMA7D6_FAMILY&redirect=true) to view the online documentation of code examples hosted in this repository.
 
-| Name | Description |
-| ---- | ----------- |
-| [iperf_demo](./docs/GUID-537DC8A4-C90E-48B8-9AB8-347B08B23D37.html) | This example application shows running iperf and measuring the network performance |
-| [tcpip_tcp_client](./docs/GUID-A1CEDE19-A023-4AD6-9F9E-577513C76F82.html) | This example application shows a TCP Client demo using Harmony native API |
-| [tcpip_tcp_server](./docs/GUID-79E8D764-56A8-4578-8D3B-BAFDCD19A885.html) | This example application shows a TCP Server demo using Harmony native API |
-| [tcpip_udp_server](./docs/GUID-704ED65B-73F7-4ABB-90EE-76DBC659CC2D.html) | This example application shows a UDP Server demo using Harmony native API |
-| [web_net_server_sdcard_fatfs](./docs/GUID-E29B01A6-2BD7-4B83-9B7A-E48A3FACE889.html) | This example application shows a Web server with FAT FS file system on the external SD card |
-| [web_net_super_set_sdcard_fatfs](./docs/GUID-0EB8BD6A-106B-4085-860C-DB5E1CC7EEB8.html) | This example application shows a all modules built-in demo (IPv6, DHCPv6 server, telnet, etc.) running a web server with FAT FS file system on the external SD card |
-
+To view the documentation offline, follow these steps:
+ - Download the publication as a zip file from [here](https://onlinedocs.microchip.com/download/GUID-87DCC234-4B2F-45AF-BA4D-36C5B6F4B7C5?type=webhelp).
+ - Extract the zip file into a folder.
+ - Navigate to the folder and open **index.html** in a web browser of your choice.
+ 
 ____
 
 [![License](https://img.shields.io/badge/license-Harmony%20license-orange.svg)](https://github.com/Microchip-MPLAB-Harmony/net_apps_sama7d6/blob/master/mplab_harmony_license.md)

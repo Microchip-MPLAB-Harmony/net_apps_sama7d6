@@ -16,6 +16,7 @@ Following table provides number of network application examples available for di
 ### New Features
 
 - Added demo applications for SAMA7D65 Curiosity Board.
+- Documentation updates.
 
 ### Known Issues
 
